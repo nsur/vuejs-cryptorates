@@ -1,20 +1,5 @@
 # CryptoRates
 
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
 Используя Vue.js, нужно создать простое одностраничное приложение, которое будет выводить информацию о популярных криптовалютах за уровнем капитализации на рынке. Информация предоставляется ресурсом www.cryptocompare.com . Нужно сделать следующее:
 
 - Вывести на страницу таблицу с популярными криптовалютами, используя
@@ -37,3 +22,16 @@ npm run build
 - Криптовалюты в таблице нужно отсортировать по цене за токен, начиная с самой большой позиции.
 
 - Данные в таблице необходимо обновлять каждые 5 минут.
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+```
