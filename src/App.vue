@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <header>
-      <h1>Crypto Currensis Rates</h1>
+      <h1>Cryptocurrency Rates</h1>
     </header>
     <main>
       <table class="cryptoCurrencyRates" v-if="rates">
